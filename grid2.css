@@ -1,0 +1,50 @@
+
+.no-gutter > [class*='col-'] {
+    padding-right:0;
+    padding-left:0;
+}
+
+.row1
+{
+	height: 200px;
+}
+.col1
+{
+	background-color: #E6E5E3;
+	border-style: solid;
+	border-color: #8B898A;
+	border-width: 3px;
+}
+.col2,.col3, .col4, .col5, .col6, .col7, .col8, .col9, .col10, .col11, .col12
+{
+	background-color: #E6E5E3;
+	border-style: solid;
+	border-color: #8B898A;
+	border-width: 3px;
+}
+.row2
+{
+	height:500px;
+}
+.col3
+{
+	height: 300px;
+}
+.col4, .col5, .col6, .col8, .col9
+{
+	height: 200px;
+}
+
+.col7
+{
+	height: 300px;
+}
+
+.col10
+{
+	height: 400px;
+}
+.col11, .col12
+{
+	height: 150px;
+}
